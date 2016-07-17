@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "701308877511",
+    "firebase_url": "https://niord-2b853.firebaseio.com",
+    "project_id": "niord-2b853",
+    "storage_bucket": "niord-2b853.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701308877511:android:1183dcefed5cb496",
+        "android_client_info": {
+          "package_name": "com.dany.niord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701308877511-bplm3sj7b4pojgm3cn5dhmc2f8btqnkk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dany.niord",
+            "certificate_hash": "4A3921567EC1237036F0C4DEF1C1A23254825B57"
+          }
+        },
+        {
+          "client_id": "701308877511-ua2qf8inme81n1qb8nvt89r3tal3vrf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz-9ibR81ORU8JLjS4K7Q0N-tMVz9v1tM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701308877511-ua2qf8inme81n1qb8nvt89r3tal3vrf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

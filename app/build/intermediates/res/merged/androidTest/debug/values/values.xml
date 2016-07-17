@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="FACEBOOK_APP_ID" translatable="false">"1639292686397608"</string>
+    <string name="FACEBOOK_PROVIDER_AUTH" translatable="false">"com.facebook.app.FacebookContentProvider""1639292686397608"</string>
+</resources>

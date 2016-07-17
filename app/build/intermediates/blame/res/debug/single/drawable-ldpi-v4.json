@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Mis documentos\\proyectos\\AndroidStudioProjects\\yule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Mis documentos\\proyectos\\AndroidStudioProjects\\yule\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "C:\\Mis documentos\\proyectos\\AndroidStudioProjects\\yule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_phone_in_talk.png",
+        "source": "C:\\Mis documentos\\proyectos\\AndroidStudioProjects\\yule\\app\\src\\main\\res\\drawable-ldpi\\ic_phone_in_talk.png"
+    },
+    {
+        "merged": "C:\\Mis documentos\\proyectos\\AndroidStudioProjects\\yule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_markunread_mailbox.png",
+        "source": "C:\\Mis documentos\\proyectos\\AndroidStudioProjects\\yule\\app\\src\\main\\res\\drawable-ldpi\\ic_markunread_mailbox.png"
+    },
+    {
+        "merged": "C:\\Mis documentos\\proyectos\\AndroidStudioProjects\\Niord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Mis documentos\\proyectos\\AndroidStudioProjects\\Niord\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "C:\\Mis documentos\\proyectos\\AndroidStudioProjects\\Niord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_phone_in_talk.png",
+        "source": "C:\\Mis documentos\\proyectos\\AndroidStudioProjects\\Niord\\app\\src\\main\\res\\drawable-ldpi\\ic_phone_in_talk.png"
+    },
+    {
+        "merged": "C:\\Mis documentos\\proyectos\\AndroidStudioProjects\\Niord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_markunread_mailbox.png",
+        "source": "C:\\Mis documentos\\proyectos\\AndroidStudioProjects\\Niord\\app\\src\\main\\res\\drawable-ldpi\\ic_markunread_mailbox.png"
+    }
+]

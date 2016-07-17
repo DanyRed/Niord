@@ -1,0 +1,88 @@
+[
+    {
+        "outputFile": "C:\\Mis documentos\\proyectos\\AndroidStudioProjects\\yule\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 83,
+                    "endOffset": 134
+                },
+                "from": {
+                    "file": "C:\\Mis documentos\\proyectos\\AndroidStudioProjects\\yule\\app\\build\\generated\\res\\resValues\\androidTest\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 83,
+                        "endOffset": 241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 139,
+                    "endColumn": 132,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "C:\\Mis documentos\\proyectos\\AndroidStudioProjects\\yule\\app\\build\\generated\\res\\resValues\\androidTest\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 247,
+                        "endColumn": 132,
+                        "endOffset": 375
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Mis documentos\\proyectos\\AndroidStudioProjects\\Niord\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 83,
+                    "endOffset": 134
+                },
+                "from": {
+                    "file": "C:\\Mis documentos\\proyectos\\AndroidStudioProjects\\Niord\\app\\build\\generated\\res\\resValues\\androidTest\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 83,
+                        "endOffset": 241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 139,
+                    "endColumn": 132,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "C:\\Mis documentos\\proyectos\\AndroidStudioProjects\\Niord\\app\\build\\generated\\res\\resValues\\androidTest\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 247,
+                        "endColumn": 132,
+                        "endOffset": 375
+                    }
+                }
+            }
+        ]
+    }
+]

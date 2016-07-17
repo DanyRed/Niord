@@ -1,0 +1,4 @@
+CHANGED,C:\Mis documentos\proyectos\AndroidStudioProjects\Niord\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\raizlabs\android\dbflow\config\GeneratedDatabaseHolder$override.class
+CHANGED,C:\Mis documentos\proyectos\AndroidStudioProjects\Niord\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\dany\niord\db\Invitado$override.class
+CHANGED,C:\Mis documentos\proyectos\AndroidStudioProjects\Niord\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Mis documentos\proyectos\AndroidStudioProjects\Niord\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\dany\niord\MainActivity$override.class
